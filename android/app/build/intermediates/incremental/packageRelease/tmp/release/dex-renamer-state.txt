@@ -1,0 +1,7 @@
+#Wed Jun 30 20:34:25 PKT 2021
+base.1=/home/tanzeel/workspace/freelance/mobile-apps/Wonderwish/android/app/build/intermediates/transforms/dexMerger/release/0
+path.1=classes2.dex
+base.0=/home/tanzeel/workspace/freelance/mobile-apps/Wonderwish/android/app/build/intermediates/transforms/dexMerger/release/0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "173868559313",
+    "firebase_url": "https://wonder-wish.firebaseio.com",
+    "project_id": "wonder-wish",
+    "storage_bucket": "wonder-wish.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173868559313:android:3e6ff74cb8d42770ebcef0",
+        "android_client_info": {
+          "package_name": "com.wonderwish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173868559313-6ldnpafu4p6ct0e5p9n1slnemln8mmf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu_lDsDePwugav7PNtONgzt2Tpbf5CZKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173868559313-6ldnpafu4p6ct0e5p9n1slnemln8mmf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
